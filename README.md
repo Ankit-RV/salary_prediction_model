@@ -11,4 +11,4 @@ In this project I did:
 - Encoding Categorical Features with multiple classes.
 - Training the Model.
 
-For source code, data set and key findings checkout the link below
+For source code, data set and key findings checkout the link https://github.com/Ankit-RV/salary_prediction_model/blob/main/ML_project.ipynb
